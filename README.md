@@ -17,3 +17,7 @@ IoT 개발자과정 블루투스 리포지토리
 
 - Putty 사용법
     - 아이디 : pi / 비번 : raspi
+
+    ![Putty 실행화면](https://raw.githubusercontent.com/qkrskdusdlqslek/basic-IoT-Network-Programming/main/images/Putty.png)
+
+    ![Putty 실행화면](https://raw.githubusercontent.com/qkrskdusdlqslek/basic-IoT-Network-Programming/main/images/Putty2.png)
