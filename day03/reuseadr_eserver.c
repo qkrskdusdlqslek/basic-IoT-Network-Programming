@@ -17,7 +17,7 @@
    socklen_t optlen, clnt_adr_sz;
    struct sockaddr_in serv_adr, clnt_adr;
    if(argc!=2) {
-     prinf("Usage : %s <port>\n", argv[0]);
+     printf("Usage : %s <port>\n", argv[0]);
      exit(1);
    }
 
