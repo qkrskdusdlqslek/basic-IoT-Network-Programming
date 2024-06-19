@@ -17,7 +17,7 @@
                    "<html><head><title> My Web Page </title>\r\n" //<html>html 시작,<head>문서[>
                    "<link rel=\"icon\" href=\"data:,\">\r\n"
                    "<style>body {background-color: #FFFFFF }</style></head>\r\n"//<style>스타일>
-                   "<body><center><h1>Hello world!!</h1><br>\r\n" //<h1>글자태그<br>한줄 띄우기
+                   "<body><center><h1>아기 망곰이 등장!!</h1><br>\r\n" //<h1>글자태그<br>한줄 띄우기
                    "<img src=\"exam.png\"></center></body></html>\r\n";
   int main(int argc, char *argv[])
   {
