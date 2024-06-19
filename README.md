@@ -284,7 +284,7 @@ IoT 개발자과정 블루투스 리포지토리
 - 평가
     - 웹서버 구현해서 이미지 로드
 
-    ![웹서버](https://raw.githubusercontent.com/qkrskdusdlqslek/basic-IoT-Network-Programming/main/day07/webserv.png)
+    ![웹서버](https://raw.githubusercontent.com/qkrskdusdlqslek/basic-IoT-Network-Programming/main/day07/webserver.png)
 
         
         
